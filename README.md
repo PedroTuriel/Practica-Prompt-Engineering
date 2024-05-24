@@ -1,2 +1,8 @@
 # Practica-Prompt-Engineering
-Repositorio creado para almacenar la práctica de prompt engineering
+Este repositorio ha sido creado para alojar la práctica correspondiente al módulo de Prompt Engineering del bootcamp de IA de la academia Keepcoding. El ejercicio consistía en realizar dos ejercicios: en el primero se solicitaba la generación de prompt temáticos en base a una serie de campos introducidos por el usuario y en el segundo se debía generar un modelo que resumiera textos y extrayera los puntos claves del mismo. Los detalles concretos sobre cada uno de los ejercicios se pueden encontrar en el Práctica Final.pdf
+
+Este módulo fue impartido por Marc Mayol, cuyo esfuerzo y dedicación han sido fundamentales. Marc cubrió los conceptos principales relacionados con el prompt engineering. La primera parte del módulo estuvo centrada en la estructura de los prompts: arquitecturas, tipos de prompts por nivel, técnicas de prompt engineering... Esta primera parte fue muy interesante porque Marc nos mostró las distintas formas de alcanzar el mejor resultado posible. Por otro lado, la segunda parte del módulo, estuvo centrado en las distintas herramientas y recursos que hoy en día son fundamentales para el prompt engineering: HuggingFace, OpenAI, LangChain, Flowise AI. Sin duda alguna el conocer estas herramientas es a día de hoy crítico ya que ofrecen una infinidad de soluciones que permiten generar soluciones que pueden ser muy valiosas y multidisciplinares. 
+
+Por medio de esta práctica he intentado representar mi esfuerzo por aplicar los conocimientos adquiridos. Estoy satisfecho con el resultado obtenido de la misma, ya que considero que demuestra mi comprensión de los conceptos aprendidos.
+
+Por último, quiero agradecer a la academia Keepcoding por incluir este módulo en el bootcamp, ya que creo que será muy beneficioso para mi futuro.
